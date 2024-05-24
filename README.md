@@ -18,7 +18,7 @@ SEO Transliteration App - это веб-приложение, которое п�
 - Tailwind CSS
 
 ## Структура
-  my-translit-app/
+ ``` seo-transliteration-app/
   ├── index.html
   ├── package.json
   ├── src/
@@ -31,7 +31,7 @@ SEO Transliteration App - это веб-приложение, которое п�
   │   └── main.jsx
   ├── tailwind.config.js
   └── vite.config.js
-
+```
 
 ## Компоненты
 `App.jsx`
