@@ -18,19 +18,20 @@ SEO Transliteration App - это веб-приложение, которое п�
 - Tailwind CSS
 
 ## Структура
- ``` seo-transliteration-app/
-  ├── index.html
-  ├── package.json
-  ├── src/
-  │   ├── App.jsx
-  │   ├── components/
-  │   │   ├── Component.jsx
-  │   │   ├── Notification.jsx
-  │   │   └── ThemeToggle.jsx
-  │   └── index.css
-  │   └── main.jsx
-  ├── tailwind.config.js
-  └── vite.config.js
+```
+seo-transliteration-app/
+├── index.html
+├── package.json
+├── src/
+│ ├── App.jsx
+│ ├── components/
+│ │ ├── Component.jsx
+│ │ ├── Notification.jsx
+│ │ └── ThemeToggle.jsx
+│ └── index.css
+│ └── main.jsx
+├── tailwind.config.js
+└── vite.config.js
 ```
 
 ## Компоненты
