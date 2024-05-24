@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Lockfiles
+package-lock.json
+
+# Temporary files
+*.tmp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build output
+dist/
+build/
